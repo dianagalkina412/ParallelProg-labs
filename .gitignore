@@ -67,12 +67,14 @@ vcpkg_installed/
 Testing/
 .cache/
 
+.git/
 .idea/
 .venv/
 .vs/
 lab1/
 x64/
 
+.gitignore
 *.vcxproj.filters
 *.slnx
 *.vcxproj.user
