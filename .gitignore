@@ -71,7 +71,6 @@ Testing/
 .idea/
 .venv/
 .vs/
-lab1/
 x64/
 
 .gitignore
