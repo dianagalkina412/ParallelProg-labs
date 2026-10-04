@@ -66,3 +66,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+.idea/
+.venv/
+.vs/
+lab1/
+x64/
+
+*.vcxproj.filters
+*.slnx
+*.vcxproj.user
+*.vcxproj
