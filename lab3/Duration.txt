@@ -1,0 +1,116 @@
+Number of process: 1
+Matrix size: 200
+Number of process: 1
+Time of execution - Parallel calculation: 46.9279 ms
+Number of process: 2
+Matrix size: 200
+Number of process: 2
+Time of execution - Parallel calculation: 23.577 ms
+Number of process: 4
+Matrix size: 200
+Number of process: 4
+Time of execution - Parallel calculation: 12.5341 ms
+Number of process: 8
+Matrix size: 200
+Number of process: 8
+Time of execution - Parallel calculation: 6.63114 ms
+Number of process: 1
+Matrix size: 400
+Number of process: 1
+Time of execution - Parallel calculation: 361.468 ms
+Number of process: 2
+Matrix size: 400
+Number of process: 2
+Time of execution - Parallel calculation: 181.982 ms
+Number of process: 4
+Matrix size: 400
+Number of process: 4
+Time of execution - Parallel calculation: 94.043 ms
+Number of process: 8
+Matrix size: 400
+Number of process: 8
+Time of execution - Parallel calculation: 48.795 ms
+Number of process: 16
+Matrix size: 400
+Number of process: 16
+Time of execution - Parallel calculation: 20.1008 ms
+Number of process: 1
+Matrix size: 800
+Number of process: 1
+Time of execution - Parallel calculation: 2748.22 ms
+Number of process: 2
+Matrix size: 800
+Number of process: 2
+Time of execution - Parallel calculation: 1429.24 ms
+Number of process: 4
+Matrix size: 800
+Number of process: 4
+Time of execution - Parallel calculation: 465.267 ms
+Number of process: 8
+Matrix size: 800
+Number of process: 8
+Time of execution - Parallel calculation: 245.716 ms
+Number of process: 16
+Matrix size: 800
+Number of process: 16
+Time of execution - Parallel calculation: 136.589 ms
+Number of process: 1
+Matrix size: 1200
+Number of process: 1
+Time of execution - Parallel calculation: 6032.63 ms
+Number of process: 2
+Matrix size: 1200
+Number of process: 2
+Time of execution - Parallel calculation: 3041.85 ms
+Number of process: 4
+Matrix size: 1200
+Number of process: 4
+Time of execution - Parallel calculation: 1544.71 ms
+Number of process: 8
+Matrix size: 1200
+Number of process: 8
+Time of execution - Parallel calculation: 813.271 ms
+Number of process: 16
+Matrix size: 1200
+Number of process: 16
+Time of execution - Parallel calculation: 449.864 ms
+Number of process: 1
+Matrix size: 1600
+Number of process: 1
+Time of execution - Parallel calculation: 14405.7 ms
+Number of process: 2
+Matrix size: 1600
+Number of process: 2
+Time of execution - Parallel calculation: 7192.77 ms
+Number of process: 4
+Matrix size: 1600
+Number of process: 4
+Time of execution - Parallel calculation: 3642.88 ms
+Number of process: 8
+Matrix size: 1600
+Number of process: 8
+Time of execution - Parallel calculation: 1910.47 ms
+Number of process: 16
+Matrix size: 1600
+Number of process: 16
+Time of execution - Parallel calculation: 1054 ms
+Number of process: 1
+Matrix size: 2000
+Number of process: 1
+Time of execution - Parallel calculation: 29142.6 ms
+Number of process: 2
+Matrix size: 2000
+Number of process: 2
+Time of execution - Parallel calculation: 14029.9 ms
+Number of process: 4
+Matrix size: 2000
+Number of process: 4
+Time of execution - Parallel calculation: 7104.04 ms
+Number of process: 8
+Matrix size: 2000
+Number of process: 8
+Time of execution - Parallel calculation: 3705.56 ms
+Number of process: 16
+Matrix size: 2000
+Number of process: 16
+Time of execution - Parallel calculation: 2043.29 ms
